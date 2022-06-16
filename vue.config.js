@@ -3,7 +3,7 @@ module.exports = {
   devServer: {
     host: 'localhost',
     port: 8080,
-    https: 'false',
+    https: false,
     open: true,
     proxy: {
       "/admin":{
