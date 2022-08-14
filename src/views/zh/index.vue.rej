@@ -1,0 +1,10 @@
+diff a/src/views/zh/index.vue b/src/views/zh/index.vue	(rejected hunks)
+@@ -1,5 +1,7 @@
+ <template>
+-  <div>bite me</div>
++  <div>bite me
++    <h6>第二次提交</h6>
++  </div>
+ </template>
+ 
+ <script>
