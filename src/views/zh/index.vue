@@ -1,5 +1,7 @@
 <template>
-  <div>bite me</div>
+  <div>bite me
+    <h6>第二次提交</h6>
+  </div>
 </template>
 
 <script>
